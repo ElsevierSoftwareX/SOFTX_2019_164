@@ -1,0 +1,9 @@
+*.log
+*.lock
+*.tmp
+*.o
+*.pyc
+*.class
+.project
+.pydevproject
+*~
